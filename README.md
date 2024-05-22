@@ -13,7 +13,7 @@ This repository contains the code of the main experiments presented in the paper
 
 
 # How to running
-1. Run the speckledBand data - New (Result Reasoner with HermiT) using the HermiT reasoner in Protege.
+1. Run the speckledBand data - New KG SpeckledBand folder using the HermiT reasoner in Protege.
 2. Then save the reasoner results.
 3. Execute the code in the Source Code folder.
 4. Then save the results.
